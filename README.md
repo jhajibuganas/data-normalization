@@ -36,7 +36,7 @@ This is a demo of normalizing data using Power Query in Excel or PowerBI to crea
 
 ### Data Source
 
-The primary dataset used for this exercise is the "sales_transaction.xlsx" file, containing detailed information about each sale made by the company.
+The primary dataset used for this exercise is the "transactions.xlsx" file, containing detailed information about each sale made by the company.
 
 ### Tools
 
