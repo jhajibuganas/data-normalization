@@ -54,17 +54,25 @@ In the data preparation phase, we will perform the following tasks:
    &emsp;![transactions file](transactions_file.jpg)
    >
    - Select data in any cell -> Go to **Data** tab -> Select **From Table/Range** -> Check **My table has headers** and click **OK**
+   >
    &emsp;![loading data](loading_data.jpg)
    >
    - **Power Query Editor** window will open -> Right click on the **Table1** -> Select **Duplicate**, create another six (6) copies of the table -> Rename each table according to its data and attributes.
+   >
    &emsp;![creating tables](creating_tables.jpg)
    >
    - The most common normal forms include:
+      - **First normal form (1NF):** Eliminates duplicate columns within a table and ensures each column contains atomic (indivisible) values.
+      - **Second normal form (2NF):** Meets the requirements of 1NF and removes partial dependencies by ensuring that all non-key attributes are fully functionally dependent on the primary key.
+      - **Third normal form (3NF):** Meets the requirements of 2NF and eliminates transitive dependencies by ensuring that non-key attributes are not dependent on other non-key attributes.
+   >
+   These normal forms address different types of data redundancies and dependencies.
+   >
 2. Setting up data in a tabular format and organize the dataset with Rows representing records and Columns representing variables.
    >
    &emsp;![tabular format](tabular.jpg)
+   >
 3. Check and correct data types.
    >
    &emsp;![data types](data_type.jpg)
-
-## To be continued...
+   >
