@@ -80,4 +80,13 @@ In the data preparation phase, we will perform the following tasks:
    >
 ### Conclusion
 
+Normalized data is organized into multiple related tables, each with a specific purpose, minimizing data redundancy and dependency.
+Denormalized data consolidates data into a single flat table to optimize data retrieval. 
+Normalization prioritizes data integrity, while denormalization prioritizes query performance.
+
+### References
+https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
+https://www.datacamp.com/tutorial/normalization-in-sql
+
+
 
