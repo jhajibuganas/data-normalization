@@ -55,7 +55,7 @@ In the data preparation phase, we will perform the following tasks:
    >
    - Select data in any cell -> Go to **Data** tab -> Select **From Table/Range** -> Check **My table has headers** and click **OK**
    >
-   &emsp;![loading data](loading_data.jpg)
+
    >
    - **Power Query Editor** window will open -> Right click on the **Table1** -> Select **Duplicate**, create another six (6) copies of the table -> Rename each table according to its data and attributes.
    >
