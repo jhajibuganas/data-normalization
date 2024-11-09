@@ -54,18 +54,17 @@ In the data preparation phase, we will perform the following tasks:
    &emsp;![transactions file](transactions_file.jpg)
    >
    - Select data in any cell -> Go to **Data** tab -> Select **From Table/Range** -> Check **My table has headers** and click **OK**
-   >
-
+   &emsp;![loading data](loading_data.jpg)
    >
    - **Power Query Editor** window will open -> Right click on the **Table1** -> Select **Duplicate**, create another six (6) copies of the table -> Rename each table according to its data and attributes.
-   >
    &emsp;![creating tables](creating_tables.jpg)
-
-     
-
-3.
-4. Setting up data in a tabular format.
-5. Organize the dataset with Rows representing records and Columns representing variables.
-6. Check and correct data types.
+   >
+   - The most common normal forms include:
+2. Setting up data in a tabular format and organize the dataset with Rows representing records and Columns representing variables.
+   >
+   &emsp;![tabular format](tabular.jpg)
+3. Check and correct data types.
+   >
+   &emsp;![data types](data_type.jpg)
 
 ## To be continued...
