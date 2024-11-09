@@ -35,3 +35,5 @@ In the data preparation phase, we will perform the following tasks:
 2. Setting up data in a tabular format.
 3. Organize the dataset with Rows representing records and Columns representing variables.
 4. Check and correct data types.
+
+## TO be continued...
