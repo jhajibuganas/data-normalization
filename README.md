@@ -21,11 +21,13 @@ This is a demo of normalizing data using Power Query in Excel or PowerBI to crea
 
 <i>Example of a Denormalized table:</i>
 >
-![transactions_table](transactions_table.jpg)
+![transactions table](transactions_table.jpg)
 >
 >
 <i>Example of a Normalized table:</i>
 >
+![customers table](customers.jpg)&emsp;![products table](products.jpg)&emsp;![orders table](orders.jpg)
+
 ### Benefits of Data Normalization
 
 - **Consistency:** It ensures that the same data standards are applied across different datasets.
