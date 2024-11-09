@@ -12,12 +12,51 @@
 ### Overview
 
 This is a demo of normalizing data using Power Query in Excel or PowerBI to create Fact and Dimension tables.
-- **Fact Table:** Stores quantitative data about the business process.
+- **Fact Table:** Stores quantitative data about the business transactions.
 - **Dimension Table:** Stores descriptive attributes that provide context to the Fact table
 
 ### Normalizing vs. Denormalizing Data
 - **Denormalizing Data:** Combining data from multiple tables into one flat table.
 - **Normalized Data**: A process involves breaking down large tables into smaller, related tables and establishing relationships between them.
+- 
+Example of a Denormalized table:
+|Sales_Transaction|
+|-----------------|
+|TransactionID|
+|OrderNumber|
+|LineItem|
+|OrderDate|
+|DeliveryDate|
+|Quantity|
+|CustomerID|
+|CustomerGender|
+|CustomerName|
+|CustomerCity|
+|CustomerStateCode|
+|CustomerState|
+|CustomerZip|
+|CustomerCountry|
+|CustomerContinent|
+|CustomerDOB|
+|StoreID|
+|StoreCountry|
+|StoreState|
+|StoreSqMeters|
+|StoreOpenDate|
+|ProductID|
+|ProductName|
+|ProductBrand|
+|ProductColor|
+|ProductCost|
+|ProductPrice|
+|ProductSubcategoryID|
+|ProductSubcategory|
+|ProductCategoryID|
+|ProductCategory|
+
+|Table 1|Table 2|
+|--|--|
+|<table> <tr><th>Table 1 Heading 1</th><th>Table 1 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>|
 
 ### Benefits of Data Normalization
 
