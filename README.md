@@ -48,8 +48,24 @@ The primary dataset used for this exercise is the "transactions.xlsx" file, cont
 In the data preparation phase, we will perform the following tasks:
 
 1. Data loading and inspection.
-2. Setting up data in a tabular format.
-3. Organize the dataset with Rows representing records and Columns representing variables.
-4. Check and correct data types.
+   >
+   - Open the "transaction.xlsx" file.
+   >
+   &emsp;![transactions file](transactions_file.jpg)
+   >
+   - Select data in any cell -> Go to **Data** tab -> Select **From Table/Range** -> Check **My table has headers** and click **OK**
+   >
+   &emsp;![loading data](loading_data.jpg)
+   >
+   - **Power Query Editor** window will open -> Right click on the **Table1** -> Select **Duplicate**, create another six (6) copies of the table -> Rename each table according to its data and attributes.
+   >
+   &emsp;![creating tables](creating_tables.jpg)
+
+     
+
+3.
+4. Setting up data in a tabular format.
+5. Organize the dataset with Rows representing records and Columns representing variables.
+6. Check and correct data types.
 
 ## To be continued...
