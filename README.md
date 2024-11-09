@@ -8,6 +8,8 @@
 - [Data Sources](#data-source)
 - [Tools](#tools)
 - [Data Cleaning/Transfromation](#data-cleaning-and-transformation)
+- [Conclusion](#conclusion)
+- [Additional References](#additional-references)
 
 ### Overview
 
@@ -84,7 +86,7 @@ Normalized data is organized into multiple related tables, each with a specific 
 Denormalized data consolidates data into a single flat table to optimize data retrieval. 
 Normalization prioritizes data integrity, while denormalization prioritizes query performance.
 
-### References
-<a href="https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description" target="_blank">https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description</a>
+### Additional References
+https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
 https://www.datacamp.com/tutorial/normalization-in-sql
 
