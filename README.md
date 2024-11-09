@@ -19,10 +19,13 @@ This is a demo of normalizing data using Power Query in Excel or PowerBI to crea
 - **Denormalizing Data:** Combining data from multiple tables into one flat table.
 - **Normalized Data**: A process involves breaking down large tables into smaller, related tables and establishing relationships between them.
 
-Example of a Denormalized table:
+<i>Example of a Denormalized table:</i>
 >
-![Denormalized table](Denormalized_Table.jpg)
-
+![transactions_table](transactions_table.jpg)
+>
+>
+<i>Example of a Normalized table:</i>
+>
 ### Benefits of Data Normalization
 
 - **Consistency:** It ensures that the same data standards are applied across different datasets.
