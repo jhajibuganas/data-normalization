@@ -74,7 +74,7 @@ In the data preparation phase, we will perform the following tasks:
    >
    &emsp;![tabular format](tabular.jpg)
    >
-3. Check and correct data types.
+3. Check and correct the data types.
    >
    &emsp;![incorrect data types](incorrect_data_type.jpg)
    >
