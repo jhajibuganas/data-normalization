@@ -74,5 +74,10 @@ In the data preparation phase, we will perform the following tasks:
    >
 3. Check and correct data types.
    >
-   &emsp;![data types](data_type.jpg)
+   &emsp;![incorrect data types](incorrect_data_type.jpg)
    >
+   &emsp;![correct data type](correct_data_types.jpg)
+   >
+### Conclusion
+
+
