@@ -26,7 +26,7 @@ This is a demo of normalizing data using Power Query in Excel or PowerBI to crea
 >
 <i>Example of a Normalized table:</i>
 >
-![customers table](customers.jpg)&emsp;![products table](products.jpg)&emsp;
+![customers table](customers.jpg)&emsp;![products table](products.jpg)
 
 ### Benefits of Data Normalization
 
