@@ -88,5 +88,3 @@ Normalization prioritizes data integrity, while denormalization prioritizes quer
 <a href="https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description" target="_blank">https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description</a>
 https://www.datacamp.com/tutorial/normalization-in-sql
 
-
-
