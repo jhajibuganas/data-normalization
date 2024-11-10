@@ -87,6 +87,6 @@ Denormalized data consolidates data into a single flat table to optimize data re
 Normalization prioritizes data integrity, while denormalization prioritizes query performance.
 
 ### Additional References
-https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
-https://www.datacamp.com/tutorial/normalization-in-sql
+- https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
+- https://www.datacamp.com/tutorial/normalization-in-sql
 
