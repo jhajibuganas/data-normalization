@@ -11,13 +11,13 @@
 - [Conclusion](#conclusion)
 - [Additional References](#additional-references)
 
-### Overview
+## Overview
 
 This is a demo of normalizing data using Power Query in Excel or PowerBI to create Fact and Dimension tables.
 - **Fact Table:** Stores quantitative data about the business transactions.
 - **Dimension Table:** Stores descriptive attributes that provide context to the Fact table
 
-### Normalizing vs. Denormalizing Data
+## Normalizing vs. Denormalizing Data
 - **Denormalizing Data:** Combining data from multiple tables into one flat table.
 - **Normalized Data**: A process involves breaking down large tables into smaller, related tables and establishing relationships between them.
 
@@ -30,22 +30,22 @@ This is a demo of normalizing data using Power Query in Excel or PowerBI to crea
 >
 ![customers table](customers.jpg)&emsp;![products table](products.jpg)&emsp;![stores table](stores.jpg)&emsp;![orders table](orders.jpg)&emsp;![orde line items table](order_line_items.jpg)&emsp;![product subcategory table](product_subcategory.jpg)&emsp;![product category table](product_category.jpg)
 
-### Benefits of Data Normalization
+## Benefits of Data Normalization
 
 - **Consistency:** It ensures that the same data standards are applied across different datasets.
 - **Error Reduction:** Minimizes the likelihood of errors that can arise from dealing with data
 - **Improve Analysis Quality:** Yield more accurate results as the scale of the input data does not skew them.
 
-### Data Source
+## Data Source
 
 The primary dataset used for this exercise is the "transactions.xlsx" file, containing detailed information about each sale made by the company.
 
-### Tools
+## Tools
 
 - Excel: For the data source
 - Power Query: For the data cleaning and transformation.
 
-### Data Cleaning and Transformation
+## Data Cleaning and Transformation
 
 In the data preparation phase, we will perform the following tasks:
 
@@ -80,13 +80,13 @@ In the data preparation phase, we will perform the following tasks:
    >
    &emsp;![correct data type](correct_data_types.jpg)
    >
-### Conclusion
+## Conclusion
 
 Normalized data is organized into multiple related tables, each with a specific purpose, minimizing data redundancy and dependency.
 Denormalized data consolidates data into a single flat table to optimize data retrieval. 
 Normalization prioritizes data integrity, while denormalization prioritizes query performance.
 
-### Additional References
+## Additional References
 - https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
 - https://www.datacamp.com/tutorial/normalization-in-sql
 
